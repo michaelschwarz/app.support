@@ -18,7 +18,7 @@ If you have any questions or concerns, feel free to reach out via GitHub.
 
 Thanks again for your support! 
 
-### App Support
+### App available on Apple AppStore
 
 - Photo Library Export
   https://apps.apple.com/en/app/fotomediathek-export/id6741324048
