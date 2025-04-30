@@ -8,7 +8,7 @@ If you’re here for help, feedback, or just want to learn more about how your d
 ### Support & Feedback
 If you have a question, found a bug, or want to suggest a new feature, please create an issue on GitHub. You’re also welcome to leave general feedback or just say hello — I’d love to hear from you!
 
-Open a GitHub issues: https://github.com/michaelschwarz/AppSupport/issues
+Open a GitHub issues: https://github.com/michaelschwarz/app.support/issues
 
 ### Privacy
 Your privacy matters. My apps do not collect or track any personal data — no analytics, no ads, no background data collection.
