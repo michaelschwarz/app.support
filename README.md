@@ -16,11 +16,13 @@ Some apps may ask for access to your photos, but only when necessary for their c
 
 If you have any questions or concerns, feel free to reach out via GitHub.
 
-Thanks again for your support! 
-
-### App available on Apple AppStore
+### Apps available on Apple AppStore
 
 - Photo Library Export
   https://apps.apple.com/en/app/fotomediathek-export/id6741324048
 - Alltagszähler
   https://apps.apple.com/en/app/alltagsz%C3%A4hler/id1515808968
+
+## Contact
+
+For any reason you cannot create an issue here on GitHub, you can reach me via mail at app.support(at)nulleins01.de.
