@@ -22,6 +22,8 @@ If you have any questions or concerns, feel free to reach out via GitHub.
   https://apps.apple.com/en/app/fotomediathek-export/id6741324048
 - Alltagszähler
   https://apps.apple.com/en/app/alltagsz%C3%A4hler/id1515808968
+- Welcome Frame
+  https://apps.apple.com/de/app/welcome-frame/id6746150697
 
 ## Contact
 
