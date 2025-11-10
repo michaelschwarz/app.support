@@ -23,7 +23,9 @@ If you have any questions or concerns, feel free to reach out via GitHub.
 - Alltagszähler
   https://apps.apple.com/en/app/alltagsz%C3%A4hler/id1515808968
 - Welcome Frame
-  https://apps.apple.com/de/app/welcome-frame/id6746150697
+  https://apps.apple.com/en/app/welcome-frame/id6746150697
+- Photonoter
+  https://apps.apple.com/us/app/fotonotizer/id6754701932
 
 ## Contact
 
