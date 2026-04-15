@@ -19,13 +19,26 @@ If you have any questions or concerns, feel free to reach out via GitHub.
 ### Apps available on Apple AppStore
 
 - Photo Library Export
-  https://apps.apple.com/en/app/fotomediathek-export/id6741324048
+  https://apps.apple.com/us/app/photo-library-export/id6741324048
+  Try the latest beta with TestFlight: https://testflight.apple.com/join/SBVQEq3n
 - Alltagszähler
-  https://apps.apple.com/en/app/alltagsz%C3%A4hler/id1515808968
+  https://apps.apple.com/us/app/alltagszähler/id1515808968
+  Try upcoming beta versions with TestFlight: https://testflight.apple.com/join/g89sdjhN
 - Welcome Frame
-  https://apps.apple.com/en/app/welcome-frame/id6746150697
+  https://apps.apple.com/us/app/welcome-frame/id6746150697
+  I add new beta versions from time to time to TestFlight: https://testflight.apple.com/join/yt2suEtW
 - Photonoter
   https://apps.apple.com/us/app/fotonotizer/id6754701932
+  Beta versions are made available via TestFlight: https://testflight.apple.com/join/6fwQNAKp
+- Greenizer
+  https://apps.apple.com/us/app/greenizer/id6755101874
+  You can try new features at TestFlight: https://testflight.apple.com/join/ztcK2ACE
+- Photo Statistic
+  https://apps.apple.com/us/app/photo-statistic/id6761420688
+  Latest beta versions are available to test from TestFlight: https://testflight.apple.com/join/7b5N1s5k
+- Parkling
+  https://apps.apple.com/us/app/parkling/id6755155868
+  Find latest beta versions on TestFlight: https://testflight.apple.com/join/EzcYH7NS
 
 ## Contact
 
