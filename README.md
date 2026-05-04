@@ -38,7 +38,10 @@ If you have any questions or concerns, feel free to reach out via GitHub.
   Latest beta versions are available to test from [TestFlight](https://testflight.apple.com/join/7b5N1s5k). 
 - Parkling
   https://apps.apple.com/us/app/parkling/id6755155868
-  Find latest beta versions on [TestFlight](https://testflight.apple.com/join/EzcYH7NS). 
+  Find latest beta versions on [TestFlight](https://testflight.apple.com/join/EzcYH7NS).
+- Jumpie Block
+  (not yet available on App Store)
+  An early beta is available on [TestFlight](https://testflight.apple.com/join/ThNBa2Mc).
 
 ## Contact
 
