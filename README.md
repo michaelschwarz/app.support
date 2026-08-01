@@ -39,14 +39,6 @@ If you have any questions or concerns, feel free to reach out via GitHub.
 - Parkling
   https://apps.apple.com/app/parkling/id6755155868
   Find latest beta versions on [TestFlight](https://testflight.apple.com/join/EzcYH7NS).
-- Jumpie Block
-  (Not yet available on App Store)
-  An early beta is available on [TestFlight](https://testflight.apple.com/join/ThNBa2Mc).
-- Nanotraily
-  (Not yet available on App Store)
-  Find a alpha version on [TestFlight](https://testflight.apple.com/join/nZf1TtCK).
-- CuteCalorie
-  (Coming soon!)
 
 ## Contact
 
